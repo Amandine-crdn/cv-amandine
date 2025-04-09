@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Amandine-crdn/cv-amandine/static/css/main.e6c13ad2.css",
+    "main.js": "/Amandine-crdn/cv-amandine/static/js/main.9ee2df49.js",
+    "static/js/453.8b166626.chunk.js": "/Amandine-crdn/cv-amandine/static/js/453.8b166626.chunk.js",
+    "index.html": "/Amandine-crdn/cv-amandine/index.html",
+    "main.e6c13ad2.css.map": "/Amandine-crdn/cv-amandine/static/css/main.e6c13ad2.css.map",
+    "main.9ee2df49.js.map": "/Amandine-crdn/cv-amandine/static/js/main.9ee2df49.js.map",
+    "453.8b166626.chunk.js.map": "/Amandine-crdn/cv-amandine/static/js/453.8b166626.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9ee2df49.js"
+  ]
+}
